@@ -1,0 +1,7 @@
+env/
+pyvenv.cfg
+
+**/__pycache__/
+*.pyc
+
+test_results.txt
